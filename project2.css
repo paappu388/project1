@@ -1,0 +1,62 @@
+.inbox{
+    background-color:deeppink;
+    padding: 10px 30px;
+    text-align: center;
+    font-style: italic;
+}
+.sec2{
+    background-color:blanchedalmond;
+    padding: 100px 0;
+    font-style: italic;
+    
+}
+.sec3{
+    background-color:linen;
+    padding: 10px;
+
+}
+.sec4{
+    background-color:antiquewhite;
+    padding: 100px 0;
+    font-style: italic;
+
+}
+
+
+
+.sec6{
+    background-color: darkslategrey;
+    text-align: center;
+    font-style: normal;
+   border-radius: 15px;
+   border-width: 0;
+}
+.sec7{
+    background-color:brown;
+    text-align: center;
+    font-style: normal;
+    border-radius: 15px;
+}
+.sec8{
+    background-color:bisque;
+    padding: 100px 0;
+    text-align: left;
+  
+}
+.sec9{
+    background-color: cornsilk;
+}
+.sec11{
+    background-color: dimgray;
+    text-align: center;
+}
+.sec8{
+    background-color: blanchedalmond;
+    text-align: center;
+}
+.sec10{
+    background-color: dimgray;
+    text-align: center;
+    font-weight: bold;
+    font-size: small;
+}
